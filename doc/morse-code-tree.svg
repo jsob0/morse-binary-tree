@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="836" height="362" viewBox="0 0 836 362" xml:space="preserve">
+<svg style="background: #000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="836" height="362" viewBox="0 0 836 362" xml:space="preserve">
 	<style type="text/css">
 		circle, line, path{
 			fill: none;
@@ -23,7 +23,7 @@
 		.dot  { stroke-dasharray: 2.5, 7.5; }
 		.dash { stroke-dasharray: 7.5, 7.5; }
 		.thin { stroke-width: 1; }
-		.grey { stroke: #999; }
+		.grey { stroke: #bfbfbf; }
 		.tiny { font-size: 20px; }
 	</style>
 	<circle r="18" cx="209.1975" cy="96.7551"/>
@@ -68,15 +68,15 @@
 	<circle r="10" cx="186.523" cy="344.255" class="thin"/>
 	<circle r="10" cx="232.912" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="256.10625" cy="344.255" class="thin grey"/>
-	<circle r="10" cx="279.30075" cy="344.255" class="thin"/>
+	<circle r="10" cx="279.30075" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="302.49525" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="325.68975" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="348.884" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="372.0785" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="395.273" cy="344.255" class="thin"/>
 	<circle r="10" cx="441.66175" cy="344.255" class="thin"/>
-	<circle r="10" cx="464.85625" cy="344.255" class="thin"/>
-	<circle r="10" cx="488.05075" cy="344.255" class="thin"/>
+	<circle r="10" cx="464.85625" cy="344.255" class="thin grey"/>
+	<circle r="10" cx="488.05075" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="511.24525" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="534.43975" cy="344.255" class="thin grey"/>
 	<circle r="10" cx="557.63425" cy="344.255" class="thin grey"/>
@@ -180,11 +180,8 @@
 	<switch><text x="46" y="351" class="tiny" id="trsvg70"><tspan id="trsvg28">4</tspan></text></switch>
 	<switch><text x="94" y="351" class="tiny" id="trsvg71"><tspan id="trsvg29">3</tspan></text></switch>
 	<switch><text x="187" y="351" class="tiny" id="trsvg72"><tspan id="trsvg30">2</tspan></text></switch>
-	<switch><text x="279" y="350" class="tiny" id="trsvg73"><tspan id="trsvg31">+</tspan></text></switch>
 	<switch><text x="395" y="351" class="tiny" id="trsvg74"><tspan id="trsvg32">1</tspan></text></switch>
 	<switch><text x="441" y="351" class="tiny" id="trsvg75"><tspan id="trsvg33">6</tspan></text></switch>
-	<switch><text x="465" y="350" class="tiny" id="trsvg76"><tspan id="trsvg34">=</tspan></text></switch>
-	<switch style="font-size: 16px"><text x="489" y="349" style="font-size: 16px" id="trsvg77"><tspan id="trsvg35">/</tspan></text></switch>
 	<switch><text x="650" y="351" class="tiny" id="trsvg78"><tspan id="trsvg36">7</tspan></text></switch>
 	<switch><text x="743" y="351" class="tiny" id="trsvg79"><tspan id="trsvg37">8</tspan></text></switch>
 	<switch><text x="790" y="351" class="tiny" id="trsvg80"><tspan id="trsvg38">9</tspan></text></switch>
