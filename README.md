@@ -7,7 +7,8 @@ Morse code is a system of communication that uses a series of dots and dashes to
 ### Morse code alphabet as a binary tree.
 Morse code is a perfect match for the binary search tree algorithm, because Morse code has only two characters "-" and ".". When searching for a character for Morse code, it is enough to follow the instructions left or right. By which the search time is reduced to a minimum, and the Big-O notation is O(log N).
 
-![Author: Aris00](./doc/morse-code-tree.svg)
+![Author: Aris00](./doc/dark-morse-code-tree.svg#gh-dark-mode-only)
+![Author: Aris00](./doc/light-morse-code-tree.svg#gh-light-mode-only)
 
 ## Usage
     Usage: ./morse-binary-tree "MORSE CODE"
